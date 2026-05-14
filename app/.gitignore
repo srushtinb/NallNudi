@@ -36,3 +36,5 @@ Thumbs.db
 package
 tsconfig
 vite.config
+.build-outputs
+package.json
