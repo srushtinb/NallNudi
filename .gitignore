@@ -1,0 +1,38 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local config
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Kotlin
+.kotlin/
+
+# Logs
+*.log
+
+# Generated
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Env files
+.env
+.env.local
+.env.example
+
+# AI Studio metadata
+metadata.json
+
+# OS
+.DS_Store
+Thumbs.db
+.env.local
+package
+tsconfig
+vite.config
