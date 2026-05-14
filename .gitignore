@@ -34,7 +34,7 @@ metadata.json
 Thumbs.db
 .env.local
 package
-tsconfig
-vite.config
+tsconfig.json
+vite.config.ts
 .build-outputs
 package.json
